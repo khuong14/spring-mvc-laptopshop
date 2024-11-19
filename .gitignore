@@ -12,9 +12,9 @@ target/
 .settings
 .springBeans
 .sts4-cache
-.bin
-bin
-bin/
+
+# Ignore bin directories
+**/bin/
 
 ### IntelliJ IDEA ###
 .idea
